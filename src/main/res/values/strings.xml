@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CA 2</string>
+    <string name="eur">€</string>
+    <string name="usd">$</string>
+    <string name="gbp">£</string>
+    <string name="convert">Convert:</string>
+    <string name="amount">Amount:</string>
+    <string name="convert_button">Convert</string>
+</resources>
